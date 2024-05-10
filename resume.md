@@ -1,7 +1,7 @@
 ---
 title: Emerson R. Brooks
 ---
-###### [ [Github](https://www.github.com/siph) ] - [ [Blog](https://www.dev.to/siph) ] - [ v.vaughn@gmail.com ] - [ 814 332 8091 ]
+###### [Github](https://www.github.com/APandaSniper) |  emerson.r.brooks@gmail.com | (401) 935-6800
 #### Experienced project manager with a track record of delivering high-quality results on time and within budget.
 
 ## Skills
