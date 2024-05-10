@@ -2,7 +2,7 @@
 title: Emerson R. Brooks
 ---
 ###### [Github](https://www.github.com/APandaSniper) |  emerson.r.brooks@gmail.com | (401) 935-6800
-#### Experienced project manager with a track record of delivering high-quality results on time and within budget.
+#### Experienced project manager with a track record of delivering high-quality results on time and within budget. Random words for the commit.
 
 ## Skills
 ```Project management```
