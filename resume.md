@@ -1,44 +1,24 @@
+# EMERSON R. BROOKS
+###### Computer Science Undergraduate || Pathogen Sample Processing Clerk
 ---
-title: Emerson R. Brooks
----
-###### [Github](https://www.github.com/APandaSniper) |  emerson.r.brooks@gmail.com | (401) 935-6800
-#### Experienced project manager with a track record of delivering high-quality results on time and within budget. Random words for the commit.
+An individual that is driven by complex problem solving, the pursuit of knowledge, and an overall enjoyment of life.
 
-## Skills
-```Project management```
-```Team leadership```
-```Budget management```
-```Communication```
-```Problem-solving```
-```Agile methodology```
-```Microsoft Project```
-```JIRA```
-```SQL```
+## WORK EXPERIENCE
+##### **Miriam Hospital (Lifespan) - Providence, RI**
+> *Pathogen Sample Processing Clerk* - Responsible for receiving, processing, and distributing pathogen samples within the main laboratory. 
 
-**Languages**: Java, Kotlin, Rust  
-**Databases**: Redis, Postgres, Neo4j  
-**Tools**: Spring, Kubernetes, Github-Actions, Linux, Nix, Git, Rest, GraphQL
+##### **Salk’s Ace Hardware and Marine, 5939 Post Road, North Kingstown, RI 02852**
 
-## Experience
-### Jamba Juice
-##### Senior Project Manager, January 2015 - Present
-- Led cross-functional teams in the successful delivery of multiple software projects, including a major website redesign and a mobile app launch.
-- Managed budgets of up to $5 million and ensured projects were delivered on time and within scope.
-- Coordinated communication with stakeholders, including executive leadership and development teams.
+> *Assistant Manager* - Seeks out important tasks to be completed, particularly ones that challenge critical thinking and problem solving skills. Works with the customer to efficiently provide adequate products and information to help them succeed while maintaining a friendly and professional attitude.
 
-### PF Chang's
-##### Project Manager, February 2011 - December 2014
-- Managed a portfolio of software and hardware projects, including a new CRM implementation and a network infrastructure upgrade.
-- Worked closely with business analysts and technical teams to ensure project requirements were met and delivered on schedule.
-- Maintained project documentation and provided regular status updates to executive leadership.
+## SKILLS
+Operating Systems: 
+- Windows , Mac, Linux
 
+Programming Languages: 
+- Python, Java, C++, Rust
 
-## Projects
-**[*resume-md*](http://www.github.com/siph/resume-md)**
-
-Build your resume using markdown and have it generated as a pdf and html.
-
-## Education
-
-### Reno University
-**Degree:** Bachelor of Science in Computer Science | **Years Attended:** 2016-2019 | **City, State:** Reno, NV
+Applications: 
+- Epic (Medical Software) & SCC SoftLab
+- Adobe Photoshop, Illustrator & Premiere
+- Google Docs, Sheets & Slides; Microsoft Word, PowerPoint & Excel
